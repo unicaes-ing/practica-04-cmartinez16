@@ -1,0 +1,7 @@
+C:\Users\Clarissa\source\repos\Practica 4\bin\Debug\Practica 4.exe.config
+C:\Users\Clarissa\source\repos\Practica 4\bin\Debug\Practica 4.exe
+C:\Users\Clarissa\source\repos\Practica 4\bin\Debug\Practica 4.pdb
+C:\Users\Clarissa\source\repos\Practica 4\obj\Debug\Practica 4.csprojAssemblyReference.cache
+C:\Users\Clarissa\source\repos\Practica 4\obj\Debug\Practica 4.csproj.CoreCompileInputs.cache
+C:\Users\Clarissa\source\repos\Practica 4\obj\Debug\Practica 4.exe
+C:\Users\Clarissa\source\repos\Practica 4\obj\Debug\Practica 4.pdb
